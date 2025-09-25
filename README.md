@@ -1,7 +1,5 @@
 # Vigilant
 
-# Vigilant
-
 **Exposing Job Fraud • Verifying Employers • Reporting Scams**
 
 Vigilant is a community-driven platform dedicated to protecting job seekers from fraudulent recruiters and misleading job postings.  
