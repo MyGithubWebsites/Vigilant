@@ -1,4 +1,4 @@
-# Vigilant
+# Vigilants
 
 **Exposing Job Fraud • Verifying Employers • Reporting Scams**
 
